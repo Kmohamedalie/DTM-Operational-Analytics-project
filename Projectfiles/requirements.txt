@@ -3,7 +3,7 @@ appdirs==1.4.4
 astunparse==1.6.3
 beautifulsoup4==4.11.1
 cachetools==5.0.0
-certifi==2021.10.8
+certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==2.0.12
 colorama==0.4.6
